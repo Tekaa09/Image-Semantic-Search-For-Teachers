@@ -1,0 +1,496 @@
+[
+  {
+    "id": 1,
+    "ma_mon": "toan",
+    "ten_mon_hoc": "Toán học",
+    "mo_ta": "Môn học nghiên cứu về số, phép tính, hình học và các cấu trúc logic.",
+    "anh_mac_dinh": "toan/mac_dinh_toan.png",
+    "chuong": [
+      {
+        "id": 1,
+        "key": "1-1",
+        "ten_chuong": "Đại số",
+        "bai_hoc": [
+          {
+            "id": 1,
+            "key": "1-1-1",
+            "ten_bai": "Phương trình bậc nhất một ẩn",
+            "truy_van": "đồ thị đường thẳng y = ax + b trên hệ trục tọa độ",
+            "truy_van_en": "linear equation graph straight line coordinate plane",
+            "co_the_minh_hoa": false
+          },
+          {
+            "id": 2,
+            "key": "1-1-2",
+            "ten_bai": "Phương trình bậc hai một ẩn",
+            "truy_van": "đồ thị parabol của hàm số bậc hai",
+            "truy_van_en": "parabola graph of quadratic function",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 3,
+            "key": "1-1-3",
+            "ten_bai": "Hệ phương trình bậc nhất hai ẩn",
+            "truy_van": "hai đường thẳng cắt nhau trên hệ trục tọa độ",
+            "truy_van_en": "two intersecting lines on coordinate plane",
+            "co_the_minh_hoa": true
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "key": "1-2",
+        "ten_chuong": "Hình học",
+        "bai_hoc": [
+          {
+            "id": 1,
+            "key": "1-2-1",
+            "ten_bai": "Tam giác đồng dạng",
+            "truy_van": "hình vẽ hai tam giác đồng dạng có tỉ lệ cạnh tương ứng",
+            "truy_van_en": "similar triangles geometry diagram",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 2,
+            "key": "1-2-2",
+            "ten_bai": "Đường tròn",
+            "truy_van": "hình vẽ đường tròn với bán kính, đường kính và dây cung",
+            "truy_van_en": "circle geometry diagram radius diameter chord",
+            "co_the_minh_hoa": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "key": "1-3",
+        "ten_chuong": "Thống kê và xác suất",
+        "bai_hoc": [
+          {
+            "id": 1,
+            "key": "1-3-1",
+            "ten_bai": "Thu thập và phân loại dữ liệu",
+            "truy_van": "biểu đồ cột và bảng thống kê số liệu",
+            "truy_van_en": "bar chart and statistics data table",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 2,
+            "key": "1-3-2",
+            "ten_bai": "Xác suất của biến cố",
+            "truy_van": "xúc xắc và đồng xu minh họa xác suất",
+            "truy_van_en": "dice and coin probability illustration",
+            "co_the_minh_hoa": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "ma_mon": "vat_ly",
+    "ten_mon_hoc": "Vật lý",
+    "mo_ta": "Môn học nghiên cứu về vật chất, năng lượng và các quy luật tự nhiên.",
+    "anh_mac_dinh": "vat_ly/mac_dinh_vat_ly.png",
+    "chuong": [
+      {
+        "id": 1,
+        "key": "2-1",
+        "ten_chuong": "Cơ học",
+        "bai_hoc": [
+          {
+            "id": 1,
+            "key": "2-1-1",
+            "ten_bai": "Chuyển động thẳng đều",
+            "truy_van": "đồ thị quãng đường theo thời gian của chuyển động thẳng đều",
+            "truy_van_en": "uniform linear motion distance time graph",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 2,
+            "key": "2-1-2",
+            "ten_bai": "Định luật Newton",
+            "truy_van": "sơ đồ các lực tác dụng lên vật minh họa định luật Newton",
+            "truy_van_en": "Newton laws of motion force diagram",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 3,
+            "key": "2-1-3",
+            "ten_bai": "Công và năng lượng",
+            "truy_van": "minh họa công cơ học, lực đẩy làm vật di chuyển",
+            "truy_van_en": "mechanical work and energy physics illustration",
+            "co_the_minh_hoa": true
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "key": "2-2",
+        "ten_chuong": "Điện học",
+        "bai_hoc": [
+          {
+            "id": 1,
+            "key": "2-2-1",
+            "ten_bai": "Dòng điện không đổi",
+            "truy_van": "sơ đồ mạch điện một chiều gồm nguồn pin và điện trở",
+            "truy_van_en": "DC circuit diagram with battery and resistor",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 2,
+            "key": "2-2-2",
+            "ten_bai": "Định luật Ohm",
+            "truy_van": "sơ đồ mạch điện minh họa định luật Ohm giữa hiệu điện thế và cường độ dòng điện",
+            "truy_van_en": "Ohm law circuit diagram voltage current resistance",
+            "co_the_minh_hoa": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "key": "2-3",
+        "ten_chuong": "Quang học",
+        "bai_hoc": [
+          {
+            "id": 1,
+            "key": "2-3-1",
+            "ten_bai": "Khúc xạ ánh sáng",
+            "truy_van": "tia sáng bị khúc xạ khi truyền qua mặt phân cách giữa không khí và nước",
+            "truy_van_en": "light refraction ray at water air surface physics",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 2,
+            "key": "2-3-2",
+            "ten_bai": "Thấu kính",
+            "truy_van": "sơ đồ thấu kính hội tụ và đường đi của tia sáng qua thấu kính",
+            "truy_van_en": "convex lens ray diagram optics",
+            "co_the_minh_hoa": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "ma_mon": "hoa_hoc",
+    "ten_mon_hoc": "Hóa học",
+    "mo_ta": "Môn học nghiên cứu về thành phần, cấu trúc, tính chất và sự biến đổi của vật chất.",
+    "anh_mac_dinh": "hoa_hoc/mac_dinh_hoa_hoc.png",
+    "chuong": [
+      {
+        "id": 1,
+        "key": "3-1",
+        "ten_chuong": "Cấu tạo nguyên tử",
+        "bai_hoc": [
+          {
+            "id": 1,
+            "key": "3-1-1",
+            "ten_bai": "Thành phần nguyên tử",
+            "truy_van": "mô hình nguyên tử với hạt nhân proton neutron và các electron",
+            "truy_van_en": "atom model nucleus proton neutron electron",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 2,
+            "key": "3-1-2",
+            "ten_bai": "Bảng tuần hoàn các nguyên tố hóa học",
+            "truy_van": "bảng tuần hoàn các nguyên tố hóa học đầy đủ",
+            "truy_van_en": "periodic table of chemical elements",
+            "co_the_minh_hoa": true
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "key": "3-2",
+        "ten_chuong": "Phản ứng hóa học",
+        "bai_hoc": [
+          {
+            "id": 1,
+            "key": "3-2-1",
+            "ten_bai": "Phản ứng oxi hóa - khử",
+            "truy_van": "thí nghiệm phản ứng oxi hóa khử làm đổi màu dung dịch trong ống nghiệm",
+            "truy_van_en": "redox reaction experiment test tube color change",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 2,
+            "key": "3-2-2",
+            "ten_bai": "Tốc độ phản ứng",
+            "truy_van": "đồ thị nồng độ chất theo thời gian của phản ứng hóa học",
+            "truy_van_en": "reaction rate concentration versus time graph",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 3,
+            "key": "3-2-3",
+            "ten_bai": "Cân bằng hóa học",
+            "truy_van": "sơ đồ cân bằng hóa học với mũi tên hai chiều",
+            "truy_van_en": "chemical equilibrium reversible reaction diagram",
+            "co_the_minh_hoa": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "key": "3-3",
+        "ten_chuong": "Hóa học hữu cơ",
+        "bai_hoc": [
+          {
+            "id": 1,
+            "key": "3-3-1",
+            "ten_bai": "Hydrocarbon",
+            "truy_van": "công thức cấu tạo phân tử hydrocarbon methane và ethane",
+            "truy_van_en": "hydrocarbon molecular structure methane ethane",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 2,
+            "key": "3-3-2",
+            "ten_bai": "Alcohol và phenol",
+            "truy_van": "công thức cấu tạo của ethanol và phenol",
+            "truy_van_en": "ethanol and phenol chemical structure formula",
+            "co_the_minh_hoa": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "ma_mon": "sinh_hoc",
+    "ten_mon_hoc": "Sinh học",
+    "mo_ta": "Môn học nghiên cứu về sự sống: cấu tạo, hoạt động, di truyền, tiến hóa của sinh vật và mối quan hệ với môi trường.",
+    "anh_mac_dinh": "sinh_hoc/mac_dinh_sinh_hoc.png",
+    "chuong": [
+      {
+        "id": 1,
+        "key": "4-1",
+        "ten_chuong": "Sinh học tế bào",
+        "bai_hoc": [
+          {
+            "id": 1,
+            "key": "4-1-1",
+            "ten_bai": "Cấu tạo tế bào nhân sơ và nhân thực",
+            "truy_van": "sơ đồ cấu tạo tế bào nhân thực với nhân, màng sinh chất và các bào quan",
+            "truy_van_en": "eukaryotic cell structure diagram nucleus membrane organelles",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 2,
+            "key": "4-1-2",
+            "ten_bai": "Ti thể và lục lạp",
+            "truy_van": "ảnh hiển vi ti thể và lục lạp bên trong tế bào",
+            "truy_van_en": "mitochondria and chloroplast organelle microscope diagram",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 3,
+            "key": "4-1-3",
+            "ten_bai": "Vận chuyển các chất qua màng tế bào",
+            "truy_van": "sơ đồ khuếch tán và thẩm thấu qua màng tế bào",
+            "truy_van_en": "cell membrane diffusion osmosis transport diagram",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 4,
+            "key": "4-1-4",
+            "ten_bai": "Nguyên phân",
+            "truy_van": "các kì của quá trình nguyên phân quan sát dưới kính hiển vi",
+            "truy_van_en": "mitosis phases cell division under microscope",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 5,
+            "key": "4-1-5",
+            "ten_bai": "Giảm phân",
+            "truy_van": "sơ đồ các kì của quá trình giảm phân tạo giao tử",
+            "truy_van_en": "meiosis stages diagram gamete formation",
+            "co_the_minh_hoa": true
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "key": "4-2",
+        "ten_chuong": "Di truyền học",
+        "bai_hoc": [
+          {
+            "id": 1,
+            "key": "4-2-1",
+            "ten_bai": "Cấu trúc và chức năng của ADN",
+            "truy_van": "mô hình chuỗi xoắn kép ADN với các cặp base",
+            "truy_van_en": "DNA double helix model base pairs structure",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 2,
+            "key": "4-2-2",
+            "ten_bai": "Nhiễm sắc thể và bộ nhiễm sắc thể",
+            "truy_van": "ảnh bộ nhiễm sắc thể người sắp xếp theo cặp",
+            "truy_van_en": "human karyotype chromosomes arranged in pairs",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 3,
+            "key": "4-2-3",
+            "ten_bai": "Quy luật phân li của Mendel",
+            "truy_van": "sơ đồ lai một cặp tính trạng ở cây đậu Hà Lan và bảng Punnett",
+            "truy_van_en": "Mendel pea plant monohybrid cross Punnett square",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 4,
+            "key": "4-2-4",
+            "ten_bai": "Đột biến gen và đột biến nhiễm sắc thể",
+            "truy_van": "hình minh họa đột biến gen và bất thường nhiễm sắc thể",
+            "truy_van_en": "gene mutation chromosome abnormality illustration",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 5,
+            "key": "4-2-5",
+            "ten_bai": "Công nghệ ADN tái tổ hợp",
+            "truy_van": "sơ đồ kỹ thuật ADN tái tổ hợp với plasmid vi khuẩn",
+            "truy_van_en": "recombinant DNA plasmid genetic engineering diagram",
+            "co_the_minh_hoa": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "key": "4-3",
+        "ten_chuong": "Sinh học cơ thể người",
+        "bai_hoc": [
+          {
+            "id": 1,
+            "key": "4-3-1",
+            "ten_bai": "Hệ tuần hoàn",
+            "truy_van": "sơ đồ hệ tuần hoàn máu và cấu tạo quả tim người",
+            "truy_van_en": "human heart anatomy circulatory system blood flow diagram",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 2,
+            "key": "4-3-2",
+            "ten_bai": "Hệ hô hấp",
+            "truy_van": "cấu tạo phổi, phế quản và đường dẫn khí ở người",
+            "truy_van_en": "human respiratory system lungs bronchi anatomy",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 3,
+            "key": "4-3-3",
+            "ten_bai": "Hệ tiêu hóa",
+            "truy_van": "sơ đồ ống tiêu hóa từ miệng đến ruột non và ruột già",
+            "truy_van_en": "human digestive system stomach intestine anatomy diagram",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 4,
+            "key": "4-3-4",
+            "ten_bai": "Hệ thần kinh",
+            "truy_van": "cấu tạo tế bào thần kinh nơ ron và bộ não người",
+            "truy_van_en": "neuron structure human brain nervous system anatomy",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 5,
+            "key": "4-3-5",
+            "ten_bai": "Hệ vận động",
+            "truy_van": "bộ xương người và cấu tạo khớp xương, cơ bắp",
+            "truy_van_en": "human skeleton bones joints muscle anatomy",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 6,
+            "key": "4-3-6",
+            "ten_bai": "Miễn dịch và vaccine",
+            "truy_van": "tế bào bạch cầu tiêu diệt vi khuẩn và cơ chế miễn dịch",
+            "truy_van_en": "white blood cell immune response antibody vaccine",
+            "co_the_minh_hoa": true
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "key": "4-4",
+        "ten_chuong": "Sinh thái học và môi trường",
+        "bai_hoc": [
+          {
+            "id": 1,
+            "key": "4-4-1",
+            "ten_bai": "Quần thể và quần xã sinh vật",
+            "truy_van": "đàn động vật hoang dã trong tự nhiên minh họa quần thể",
+            "truy_van_en": "wild animal herd population group in nature ecology",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 2,
+            "key": "4-4-2",
+            "ten_bai": "Chuỗi thức ăn và lưới thức ăn",
+            "truy_van": "sơ đồ chuỗi thức ăn và lưới thức ăn trong hệ sinh thái",
+            "truy_van_en": "food chain food web ecosystem energy flow diagram",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 3,
+            "key": "4-4-3",
+            "ten_bai": "Các hệ sinh thái chủ yếu",
+            "truy_van": "rừng nhiệt đới, rạn san hô và các kiểu hệ sinh thái",
+            "truy_van_en": "tropical rainforest coral reef ecosystem landscape",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 4,
+            "key": "4-4-4",
+            "ten_bai": "Chu trình sinh địa hóa",
+            "truy_van": "sơ đồ chu trình nước và chu trình carbon trong tự nhiên",
+            "truy_van_en": "water cycle carbon cycle biogeochemical diagram",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 5,
+            "key": "4-4-5",
+            "ten_bai": "Ô nhiễm môi trường và bảo tồn",
+            "truy_van": "ô nhiễm rác thải nhựa và suy thoái môi trường sống",
+            "truy_van_en": "plastic pollution environmental degradation conservation",
+            "co_the_minh_hoa": true
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "key": "4-5",
+        "ten_chuong": "Tiến hóa",
+        "bai_hoc": [
+          {
+            "id": 1,
+            "key": "4-5-1",
+            "ten_bai": "Bằng chứng tiến hóa",
+            "truy_van": "hóa thạch và cơ quan tương đồng làm bằng chứng tiến hóa",
+            "truy_van_en": "fossil evidence homologous structures evolution",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 2,
+            "key": "4-5-2",
+            "ten_bai": "Chọn lọc tự nhiên và thích nghi",
+            "truy_van": "minh họa chọn lọc tự nhiên và sự thích nghi của sinh vật",
+            "truy_van_en": "natural selection adaptation Darwin finches beak",
+            "co_the_minh_hoa": true
+          },
+          {
+            "id": 3,
+            "key": "4-5-3",
+            "ten_bai": "Phát sinh loài người",
+            "truy_van": "cây phát sinh chủng loại và quá trình tiến hóa loài người",
+            "truy_van_en": "phylogenetic tree human evolution timeline hominid",
+            "co_the_minh_hoa": true
+          }
+        ]
+      }
+    ]
+  }
+]
